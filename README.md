@@ -1,8 +1,11 @@
 # Digital Literacy Project
 
-**Name:** Samriti Sharma  
+**Name:** Samriti Sharma
+
 **Registration Number:** 25BCY10160
+
 **Branch:** CSE (Cyber Security and Digital Forensics)
+
 **Course:** CSE0001 – Digital Literacy  
 
 ---
